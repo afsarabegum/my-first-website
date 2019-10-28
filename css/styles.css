@@ -1,0 +1,35 @@
+body {
+  background-color: #ceaaed;
+}
+
+
+h1 {
+  color:#6b4882;
+}
+p {
+  color:#f73333;
+}
+
+div#main {
+  background-color: #eabbdc;
+  width:75%;
+}
+
+div#title{
+  text-align: center;
+  font-size: 32px;
+  background-color: white;
+}
+
+div#container{
+  background-color: white;
+
+}
+
+div.section {
+  color:white;
+  background-color: black;
+  width:33.333%;
+  float: left;
+
+}
